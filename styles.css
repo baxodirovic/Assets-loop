@@ -1,0 +1,21 @@
+body {
+  background-color: #85a5d4;
+}
+
+.container {
+  background-color: white;
+}
+
+.parent {
+  display: flex;
+}
+.parent h2 {
+    
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
